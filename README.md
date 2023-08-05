@@ -12,7 +12,17 @@ To properly use it, you need to have a bit of knowledge of using command-line to
 Here are the command-lines you can use in Staging Tool:
 
 * `/enable` – Enable the specified feature/disable – Disable the specified feature
+```
+StagingTool.exe [/enable <featureId>]
+```
+* `/disable` – Disable the specified feature
+```
+StagingTool.exe [/disable <featureId>]
+```
 * `/query` – Query the specified feature for enablement and viariant information.
+```
+StagingTool.exe [/query <featureId>]
+```
 * `/v` – optional parameter to also print ImageDefault and ImageOverride features
 * `/reset` – Reset the specified feature to its default state
 * `/testmode` – Used in conjunctions with /enable /disable /reset
@@ -23,17 +33,8 @@ Here are the command-lines you can use in Staging Tool:
 * `/restorelkg` – Restore Boot time LKG configurations states Feature Configurations
 * `/trace` – Realtime ETW trace for the specified feature usage in code.
 
-To use them, you just have to add the keywords after StagingTool.exe in the terminal line as it follows:
-
-```
-StagingTool.exe [/enable <featureId>]
-```
-```
-StagingTool.exe [/disable <featureId>]
-```
-```
-StagingTool.exe [/query <featureId>]
-```
+## Feature IDs
+[Mach2 feature IDs](https://github.com/riverar/mach2/tree/master/features)
 
 ## Disclaimer
-We are not responsible for any misuse or damage caused by this program. use this tool at your own risk!
+> We are not responsible for any misuse or damage caused by this program. use this tool at your own risk!
