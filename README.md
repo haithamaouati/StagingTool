@@ -7,11 +7,9 @@ Microsoft Windows 11 StagingTool — Controls the feature configurations for thi
 
 ## Usage
 
-To properly use it, you need to have a bit of knowledge of using command-line tools, otherwise, you could end up breaking your system. However, the [Windows enthusiast](https://twitter.com/XenoPanther/status/1686712381840179200?s=20) who discovered the tool also pushed it to reveal the commands that you can unlock.
+Usage: `StagingTool.exe` [/enable <featureId>]
 
-Here are the command-lines you can use in Staging Tool:
-
-* `/enable` – Enable the specified feature/disable – Disable the specified feature
+* `/enable` – Enable the specified feature
 ```
 StagingTool.exe [/enable <featureId>]
 ```
