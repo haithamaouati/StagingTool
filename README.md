@@ -3,7 +3,7 @@
 
 The Staging Tool is apparently a software device used by Microsoft’s engineers to unlock features in Windows 11. It uses command lines to test the features, and it was spotted by [this Windows enthusiast](https://twitter.com/XenoPanther/status/1686712381840179200?s=20), in an apparent leak.
 
-Of course, the post it was featured on is now deleted, but you can actually [download the Staging Tool from here]() and try it for yourself.
+Of course, the post it was featured on is now deleted, but you can actually [download the Staging Tool from here](https://github.com/haithamaouati/StagingTool/blob/main/stagingtool.zip) and try it for yourself.
 
 ##### So how does Staging Tool work?
 
