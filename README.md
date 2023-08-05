@@ -7,7 +7,7 @@ Microsoft Windows 11 StagingTool — Controls the feature configurations for thi
 
 ## Usage
 
-Usage: `StagingTool.exe` [/enable <featureId>]
+Usage: `StagingTool.exe` [/command <featureId>]
 
 * `/enable` – Enable the specified feature
 ```
