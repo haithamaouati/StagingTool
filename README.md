@@ -1,9 +1,9 @@
 # StagingTool
-Microsoft Windows 11 StagingTool — Controls the feature configurations for this device.
+Microsoft Windows 11 StagingTool — app that is used by employees to enable secret unreleased Windows 11 features. 
 
 ![screenshot](https://raw.githubusercontent.com/haithamaouati/StagingTool/main/screenshot.jpg)
 
-> Discovered by [XenoPantger](https://twitter.com/XenoPanther/status/1686712381840179200?s=20), in an apparent leak.
+> Discovered by [XenoPantger](https://twitter.com/XenoPanther/status/1686712381840179200), in an apparent leak.
 
 ## Usage
 
